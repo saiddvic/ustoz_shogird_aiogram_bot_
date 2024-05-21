@@ -1,0 +1,228 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-13 20:52+0500\n"
+"PO-Revision-Date: 2024-05-13 20:52+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: buttons.py:12
+msgid "Sherik kerak"
+msgstr ""
+
+#: buttons.py:13
+msgid "Ish joyi kerak"
+msgstr ""
+
+#: buttons.py:14
+msgid "Hodim kerak"
+msgstr ""
+
+#: buttons.py:15
+msgid "Ustoz kerak"
+msgstr ""
+
+#: buttons.py:16
+msgid "Shogird kerak"
+msgstr ""
+
+#: main.py:59 main.py:67
+msgid "Ism, familiyangizni kiriting?"
+msgstr ""
+
+#: main.py:92
+msgid "Telefon raqam yuborish"
+msgstr ""
+
+#: main.py:143
+msgid "👨‍💼 Xodim"
+msgstr ""
+
+#: main.py:144
+msgid "🕑 Yosh"
+msgstr ""
+
+#: main.py:145
+msgid "📚 Texnologiya"
+msgstr ""
+
+#: main.py:146
+msgid "🇺🇿 Telegram"
+msgstr ""
+
+#: main.py:147
+msgid "📞 Aloqa"
+msgstr ""
+
+#: main.py:148
+msgid "🌐 Hudud"
+msgstr ""
+
+#: main.py:149
+msgid "💰 Narxi"
+msgstr ""
+
+#: main.py:150
+msgid "💻 Kasbi"
+msgstr ""
+
+#: main.py:151
+msgid "🕰 Murojaat qilish vaqti"
+msgstr ""
+
+#: main.py:152
+msgid "🔎 Maqsad"
+msgstr ""
+
+#: main.py:174
+msgid "Ha"
+msgstr ""
+
+#: main.py:175
+msgid "Yo'q"
+msgstr ""
+
+#: main.py:178
+msgid "Barcha ma'lumotlar to'g'rimi?"
+msgstr ""
+
+#: main.py:191
+msgid "Tasdiqlash"
+msgstr ""
+
+#: main.py:192
+msgid "Delete"
+msgstr ""
+
+#: main.py:203
+msgid "Ariza topshorish to'xtatildi!"
+msgstr ""
+
+#: main.py:224
+msgid "Arizangiz qabul qilinmadi‼️"
+msgstr ""
+
+#: texts.py:2
+msgid ""
+"UzGeeks faollari tomonidan tuzilgan Ustoz-Shogird kanali. \n"
+"\n"
+"Bu yerda Programmalash bo`yicha\n"
+"  #Ustoz,  \n"
+"  #Shogird,\n"
+"  #oquvKursi,\n"
+"  #Sherik,  \n"
+"  #Xodim va \n"
+"  #IshJoyi \n"
+" topishingiz mumkin. \n"
+"\n"
+"E'lon berish: @ustozz_shogirdbot\n"
+"\n"
+"Admin @ustozz_shogirdbot"
+msgstr ""
+
+#: texts.py:17
+msgid ""
+"\n"
+"Ish joyi topish uchun ariza berish\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi. \n"
+"Har biriga javob bering. \n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi."
+msgstr ""
+
+#: texts.py:24
+msgid ""
+"\n"
+"🕑 Yosh: \n"
+"\n"
+"Yoshingizni kiriting?\n"
+"Masalan, 19"
+msgstr ""
+
+#: texts.py:30
+msgid ""
+"\n"
+"📚 Texnologiya:\n"
+"\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating. Masalan, \n"
+"\n"
+"Java, C++, C#"
+msgstr ""
+
+#: texts.py:38
+msgid ""
+"\n"
+"📞 Aloqa: \n"
+"\n"
+"Bog`lanish uchun raqamingizni yuboring!\n"
+"Masalan, +998 90 123 45 67"
+msgstr ""
+
+#: texts.py:44
+msgid ""
+"\n"
+"🌐 Hudud: \n"
+"\n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting."
+msgstr ""
+
+#: texts.py:52
+msgid ""
+"\n"
+"💰 Narxi:\n"
+"\n"
+"Tolov qilasizmi yoki Tekinmi?\n"
+"Kerak bo`lsa, Summani kiriting?"
+msgstr ""
+
+#: texts.py:58
+msgid ""
+"\n"
+"👨🏻‍💻 Kasbi: \n"
+"\n"
+"Ishlaysizmi yoki o`qiysizmi?\n"
+"Masalan, Talaba"
+msgstr ""
+
+#: texts.py:64
+msgid ""
+"\n"
+"🕰 Murojaat qilish vaqti: \n"
+"\n"
+"Qaysi vaqtda murojaat qilish mumkin?\n"
+"Masalan, 9:00 - 18:00"
+msgstr ""
+
+#: texts.py:70
+msgid ""
+"\n"
+"🔎 Maqsad: \n"
+"\n"
+"Maqsadingizni qisqacha yozib bering."
+msgstr ""
+
+#: texts.py:75 texts.py:82
+msgid ""
+"Ustoz topish uchun ariza berish\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi. \n"
+"Har biriga javob bering. \n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi."
+msgstr ""
+
